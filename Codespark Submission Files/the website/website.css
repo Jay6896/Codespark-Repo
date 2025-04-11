@@ -1,0 +1,28 @@
+element.style {
+    position: relative;
+    left: -113.2px;
+    box-sizing: border-box;
+    width: 966px;
+    padding-left: 113.2px;
+    padding-right: 112.8px;
+}
+.vc_row.vc_column-gap-20 {
+    margin-left: -25px;
+    margin-right: -25px;
+}
+.vc_row[data-vc-full-width] {
+    -webkit-transition: opacity .5s ease;
+    -o-transition: opacity .5s ease;
+    transition: opacity .5s ease;
+    overflow: hidden;
+}
+.vc_custom_1707819341709 {
+    background-color: #2e3a6e !important;
+}
+.vc_row {
+    overflow: visible !important;
+}
+.vc_row {
+    margin-left: -15px;
+    margin-right: -15px;
+}
